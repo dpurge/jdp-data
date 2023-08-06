@@ -140,3 +140,15 @@ def get_decomposition(characters):
         value = decompose(key)
         data.write(f"{key}\t{value}\n")
     return data.getvalue()
+
+def get_known_characters():
+    pass
+
+def add_known_characters(characters):
+    pass
+
+def get_known_words():
+    pass
+
+def add_known_words(words):
+    pass
